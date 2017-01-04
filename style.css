@@ -1,0 +1,32 @@
+* {margin:0px;padding:0px}
+
+body {background:url(img/bg.png) repeat}
+
+.center_area {width:960px;margin:0px auto}
+.logo_area {overflow:hidden}
+.logo {width:60%;float:left;margin:30px 0px}
+
+
+.social_sites {width:40%;float:right;margin:36px 0px}
+.social_sites ul{list-style: outside none none;
+margin-left: 188px;}
+.social_sites ul li{float:left;margin-left:12px}
+
+
+.menu_area {background:#ebebeb;margin-bottom:30px}
+.menu_area ul{list-style: outside none none;}
+.menu_area ul li{display: inline;}
+.menu_area ul li a{border-right: 1px solid #b4b4b4;
+display: inline-block;
+padding: 20px 30px;color:#4e4e4e;text-decoration:none}
+.menu_area ul li a:hover {color:#4d87ab;background:#fff}
+
+.main_site_area {background: #ebebeb none repeat scroll 0 0;
+padding: 30px;}
+
+.slider_area p{font-size: 22px;
+text-align: center;}
+
+.border_area {background: rgba(0, 0, 0, 0) url("img/border.png") repeat-x scroll 0 0;
+height: 8px;
+margin: 30px 0;}
